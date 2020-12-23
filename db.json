@@ -4,7 +4,20 @@
     {
       "name": "sarfaraz",
       "age": "21"
+    },
+    {
+      "name": "Rizwan",
+      "age": "22"
+    },
+    {
+      "name": "Adil",
+      "age": "24"
+    },
+    {
+      "name": "Ashar",
+      "age": "22"
     }
+    
   ],
   "profile": {
     "name": "sarfaraz"
