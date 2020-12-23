@@ -2,8 +2,24 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "User_Name"
+     
+      "name": "Sarfaraz",
+      "age": "22",
+    },
+     {
+     
+      "name": "Rizwan",
+      "age": "23",
+    },
+    {
+     
+      "name": "Ashar",
+      "age": "24",
+    },
+     {
+     
+      "name": "Adil",
+      "age": "25",
     }
   ],
   "profile": {
