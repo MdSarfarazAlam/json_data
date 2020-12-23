@@ -3,10 +3,9 @@
   "posts": [
     {
      
-      "name": "Sarfaraz",
-      "age": "22"
+      "id": "1",
+      "title": "sarfaraz"
     }
-    
   ],
   "profile": {
     "name": "sarfaraz"
